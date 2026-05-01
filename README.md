@@ -5,7 +5,7 @@ Automation testing framework built using Playwright + TypeScript.
 ## Website Under Test
 https://www.saucedemo.com/
 
----
+----
 
 ## Features
 
@@ -18,7 +18,7 @@ https://www.saucedemo.com/
 - Cross-browser support
 - CI/CD ready
 
----
+----
 
 ## Project Structure
 
